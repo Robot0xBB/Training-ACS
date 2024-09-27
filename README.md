@@ -1,6 +1,6 @@
 # Section 1: Introduction to Automotive Cybersecurity (Slides 1-10)
 - ## Welcome & Introduction
-&emsp; Opening remarks and trainer introduction
+&nbsp; Opening remarks and trainer introduction
   --- Objectives of the training session
 - #### Agenda Overview
 - Breakdown of topics to be covered
