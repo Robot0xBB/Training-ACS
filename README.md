@@ -2,8 +2,8 @@
 - ## Welcome & Introduction
 &nbsp; Opening remarks and trainer introduction
   --- Objectives of the training session
-- #### Agenda Overview
-* ## Breakdown of topics to be covered
+-  Agenda Overview
+* ##### Breakdown of topics to be covered
   * The Rise of Automotive Cybersecurity
 - Evolution of cybersecurity threats in vehicles
 - Why ISO/SAE 21434 Matters
